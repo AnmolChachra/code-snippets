@@ -5,5 +5,9 @@
 mixed/swig/c/hw_wrap.c
 mixed/swig/c/hw.py
 
-# Pycache
+# Python
 __pycache__
+*.egg-info
+
+# build directory
+build
